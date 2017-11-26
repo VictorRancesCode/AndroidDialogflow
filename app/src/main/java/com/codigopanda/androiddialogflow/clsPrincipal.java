@@ -53,7 +53,7 @@ public class clsPrincipal extends AppCompatActivity implements AIListener, View.
     AIConfiguration config;
 
 
-    public static String API_KEY="cea141fe0eaf48caa64ec6497f10d7a0";
+    public static String API_KEY="YOUR API KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
