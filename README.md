@@ -1,6 +1,6 @@
 # AndroidDialogflow - Dialogflow
 
-[![](img/logo.jpg)](https://dialogflow.com/)
+[![](img/logo.png)](https://dialogflow.com/)
 
 ## Screenshot
 <p align="center">
